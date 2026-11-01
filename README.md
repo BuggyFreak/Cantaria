@@ -30,7 +30,7 @@
 2. Die Datei auf dem Handy öffnen und die Installation bestätigen  
 3. Falls Android blockt: bei der Quelle die Installation unbekannter Apps erlauben  
 
-Aktuell: **Cantaria 1.3.3 (Build 20)**
+Aktuell: **Cantaria 1.3.4 (Build 21)**
 
 ## Web
 
